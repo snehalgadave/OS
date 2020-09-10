@@ -368,7 +368,7 @@ ans:	sudo chown root a
 14) Change permission of a to read write and executable to only user
 
 ans:	sudo su		=> getting into the root user 
-	[sudo] password for rahul: Rahul@12324
+	[sudo] password for snehal: 880604
 	
 	chmod 700 a	=> to change permission
 
